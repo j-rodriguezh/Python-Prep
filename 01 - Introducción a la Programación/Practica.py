@@ -7,3 +7,9 @@ mi_variable4 = True
 mi_variable5 = 1 + 2j
 
 print(10%3)
+
+
+
+
+
+print("La primera variable es ", mi_variable1, "")

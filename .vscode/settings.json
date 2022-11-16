@@ -1,0 +1,6 @@
+{
+    "task.quickOpen.skip": true,
+    "search.quickOpen.includeSymbols": true,
+    "task.quickOpen.showAll": true,
+    "audioCues.terminalQuickFix": "on"
+}
